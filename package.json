@@ -1,0 +1,18 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "description": "buscador con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giovanny mora",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "npm": "^5.8.0"
+  }
+}
